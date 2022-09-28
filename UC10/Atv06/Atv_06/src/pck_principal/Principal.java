@@ -6,7 +6,7 @@ public class Principal {
         //obj_produtos.consultar();
 
        /* Produto novoProduto = new Produto(7, "Uva", 30.00, 10.0, 2);
-        obj_produtos.inserir(novoProduto);*/
+        //obj_produtos.inserir(novoProduto);*/
 
         /*alterar produtos
         Produto produtoAlterado = new Produto(7, "Uva Alterada", 10.00, 5, 3);

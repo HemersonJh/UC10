@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e23805b8-1d20-4891-bfc0-197780dcabdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Atv05/Atv_05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Atv05/Atv_05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Atv05/Atv_05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Atv05/Atv_05/Atv_05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Atv05/Atv_05/src/pck_principal/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Atv05/Atv_05/src/pck_principal/Unidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-connector-java-8.0.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pck_principal/Conexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pck_principal/DAO_Produtos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pck_principal/DAO_Unidades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pck_principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv05/Atv_05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv05/Atv_05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv05/Atv_05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv05/Atv_05/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv05/Atv_05/Atv_05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv05/Atv_05/src/pck_principal/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv05/Atv_05/src/pck_principal/Unidade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pck_principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pck_principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
