@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e23805b8-1d20-4891-bfc0-197780dcabdd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Atv06/Atv_06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/Atv_06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/mysql-connector-java-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/out/production/Atv_06/pck_principal/Conexao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/out/production/Atv_06/pck_principal/DAO_Produtos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/out/production/Atv_06/pck_principal/DAO_Unidades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/out/production/Atv_06/pck_principal/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/out/production/Atv_06/pck_principal/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/out/production/Atv_06/pck_principal/Unidade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/src/pck_principal/Conexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/src/pck_principal/DAO_Produtos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/src/pck_principal/DAO_Unidades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/src/pck_principal/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/src/pck_principal/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atv06/Atv_06/src/pck_principal/Unidade.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
