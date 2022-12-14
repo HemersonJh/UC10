@@ -13,10 +13,12 @@ public class MainActivity extends AppCompatActivity implements Runnable {
     int i;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         handler = new Handler();
         thread = new Thread(this);
